@@ -1,0 +1,2 @@
+# blog
+www.gamare.net
