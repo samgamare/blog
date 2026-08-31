@@ -30,12 +30,7 @@ url: "https://www.gamare.net" # the base hostname & protocol for your site, e.g.
 collections:
   posts:
     output: true
-    permalink: /blog/:year/:month/:day/:title/ 
-
-  # Add this block for your new collection
-  labs:
-    output: true            # Tells Jekyll to generate a file for each project
-    permalink: /labs/:year/:month/:day/:title/ 
+    permalink: /blog/:year/:month/:day/:title/
 
 show_excerpts: true
 show_subscribe: false
