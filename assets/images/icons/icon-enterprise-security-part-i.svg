@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Person with checkmark icon representing login validation">
+  <rect width="120" height="120" rx="22" fill="#6610f2"/>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="40" r="11"/>
+    <path d="M28,86 Q28,60 48,60 Q68,60 68,86"/>
+    <circle cx="86" cy="80" r="13"/>
+    <path d="M80,80 L84,85 L93,74"/>
+  </g>
+</svg>

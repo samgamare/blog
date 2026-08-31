@@ -1,0 +1,16 @@
+# Jekyll build output — GitHub Actions builds this fresh on every push.
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / bundler
+.bundle/
+vendor/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,20 @@
+---
+layout: page
+title: Labs
+permalink: /labs/
+---
+
+<!--
+<h1>{{ page.title }}</h1>
+-->
+
+<ul class="post-list">
+  {% for lab in site.labs %}
+    <li>
+      <h3>
+        <a href="{{ lab.url | relative_url }}">{{ lab.title }}</a>
+      </h3>
+      <p>{{ lab.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Server icon representing server validation">
+  <rect width="120" height="120" rx="22" fill="#0d6efd"/>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round">
+    <rect x="32" y="30" width="56" height="16" rx="3"/>
+    <rect x="32" y="52" width="56" height="16" rx="3"/>
+    <rect x="32" y="74" width="56" height="16" rx="3"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="41" cy="38" r="2.6"/>
+    <circle cx="41" cy="60" r="2.6"/>
+    <circle cx="41" cy="82" r="2.6"/>
+  </g>
+</svg>

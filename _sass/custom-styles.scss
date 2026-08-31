@@ -1,0 +1,16 @@
+.post-listing-item .bi {
+  margin-right: 8px; /* Adds space after the icon */
+  color: #007bff; /* Use your accent color */
+}
+.post-topic-icon {
+  width: 14px;
+  height: 14px;
+  margin-right: 6px;
+  vertical-align: -1px; /* nudge onto the title's text baseline */
+}
+/* Add padding to the body to prevent content from hiding under the fixed navbar */
+body {
+  padding-top: 56px; /* Bootstrap navbars are usually 56px tall. Adjust if necessary. */
+}
+
+
